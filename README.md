@@ -14,6 +14,9 @@
 <h2>Overview</h2>
 <p>Traditional AI systems typically operate within single modalities, lacking the comprehensive understanding that emerges from integrating multiple sensory inputs. The Multimodal Reasoning Engine addresses this fundamental limitation by implementing a sophisticated fusion architecture that processes and reasons across text, visual, auditory, and temporal data streams. This enables true multimodal comprehension that mirrors human cognitive capabilities for complex problem-solving and contextual understanding.</p>
 
+<img width="680" height="555" alt="image" src="https://github.com/user-attachments/assets/ac363eee-c97c-457f-ad9e-b9ccc48ad49a" />
+
+
 <p><strong>Core Innovation:</strong> This engine introduces a novel hierarchical attention mechanism that dynamically weights and integrates information across modalities based on contextual relevance. The system learns complex cross-modal relationships through transformer-based fusion layers, enabling it to perform sophisticated reasoning tasks that require simultaneous understanding of diverse data types and their intricate interdependencies.</p>
 
 <h2>System Architecture</h2>
@@ -62,6 +65,9 @@
 │ • Audio Responses   │ • Semantic          │   Quantification    │ • Knowledge         │
 └─────────────────────┴─────────────────────┴─────────────────────┴─────────────────────┘
 </code></pre>
+
+<img width="958" height="529" alt="image" src="https://github.com/user-attachments/assets/d428b9b9-929f-4541-bec5-8ddeb16e5a94" />
+
 
 <p><strong>Advanced Pipeline Architecture:</strong> The system employs a modular, scalable architecture where each modality processor can be independently optimized while maintaining seamless integration through the fusion engine. The hierarchical reasoning transformer incorporates multiple layers of cross-modal attention, enabling the system to capture complex relationships between different data types and perform sophisticated inference tasks that require integrated understanding.</p>
 
@@ -114,6 +120,9 @@
   <li><strong>Uncertainty Quantification:</strong> Confidence estimation and uncertainty calibration for reliable deployment</li>
   <li><strong>Cross-Modal Retrieval:</strong> Advanced search and retrieval across modalities based on semantic similarity</li>
 </ul>
+
+<img width="979" height="505" alt="image" src="https://github.com/user-attachments/assets/f572b202-14d4-4b1d-af04-963a7a18b148" />
+
 
 <h2>Installation</h2>
 <p><strong>System Requirements:</strong></p>
